@@ -2,9 +2,9 @@
 
 /*
  *
- * Little Brain PCB Firmware
+ * STM32 Based mouse Firmware
  *
- * Phil's Lab - youtube.com/c/phils94
+ * Used Phil's lab for inspiration and starting point 
  *
  */
 
